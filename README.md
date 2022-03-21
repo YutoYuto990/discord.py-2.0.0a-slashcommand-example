@@ -7,7 +7,7 @@ You have to put `pip install git+https://github.com/Rapptz/discord.py` to shell.
 
 > discordbot's permission to use slashcommand
 
-You have to add check to `use slashcommand` in discord developer portal when you install your bot to your server.
+You have to add check to `use slashcommand` and `applicationcommand` in discord developer portal when you install your bot to your server.
 
 ## Point
 It will take from 10seconds to 5minutes to reflect.
